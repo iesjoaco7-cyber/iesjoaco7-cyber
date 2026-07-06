@@ -54,3 +54,5 @@
 </div>
 
 ###
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=iesjoaco7-cyber&repo=iesjoaco7-cyber/Instagram-Followers-Analyzer&show_owner=true&description_lines_count=3&theme=dark)](https://github.com/iesjoaco7-cyber/Instagram-Followers-Analyzer)
